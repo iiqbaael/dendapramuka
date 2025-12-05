@@ -1,14 +1,52 @@
 <!-- Footer -->
+<!-- Footer -->
+<!-- Bootstrap Icons (wajib tambahkan di head jika belum ada) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+<!-- Footer -->
 <footer class="content-footer footer bg-footer-theme">
     <div class="container-xxl d-flex flex-wrap justify-content-between py-2 flex-md-row flex-column">
+
+        <!-- Kiri -->
         <div class="mb-2 mb-md-0">
+            <strong>Ambalan KI CIBOLANG & RA KARTINI</strong> <br>
             ©
-            <script>
-                document.write(new Date().getFullYear());
-            </script>
+            <script>document.write(new Date().getFullYear());</script> — Pramuka SMK Salafiyah
+        </div>
+
+        <!-- Kanan -->
+        <div class="d-flex align-items-center gap-4">
+
+            <!-- WhatsApp -->
+            <a href="https://wa.me/6285799476214" target="_blank"
+                class="text-decoration-none d-flex align-items-center">
+                <i class="bi bi-whatsapp me-1"></i> 0857-9947-6214
+            </a>
+
+            <!-- Instagram -->
+            <a href="https://www.instagram.com/ambalansmksalafiyah?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                target="_blank" class="text-decoration-none d-flex align-items-center">
+                <i class="bi bi-instagram me-1"></i> @ambalansmksalafiyah
+            </a>
+
+            <!-- GitHub -->
+            <a href="https://github.com/iiqbaael" target="_blank"
+                class="text-decoration-none d-flex align-items-center">
+                <i class="bi bi-github me-1"></i> GitHub
+            </a>
+
         </div>
     </div>
 </footer>
+
+<div class="content-backdrop fade"></div>
+
+
+<div class="content-backdrop fade"></div>
+
+
+
+
 
 
 <div class="content-backdrop fade"></div>

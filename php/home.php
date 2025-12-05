@@ -250,7 +250,7 @@ $totalAlphaAll = array_sum(array_column($leaderboard, 'alpha'));
           </div>
         </div>
         <div class="card-footer text-muted small">
-          <i class="bi bi-info-circle"></i> Klik <strong>Denda</strong> untuk detail pembayaran per siswa.
+          <i class="bi bi-info-circle"></i> Klik <a href="denda.php"><strong>Denda</strong></a> untuk detail pembayaran per siswa.
         </div>
       </div>
     </div>

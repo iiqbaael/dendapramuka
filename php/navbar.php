@@ -240,7 +240,26 @@ body.dark-mode table tbody tr:hover {
     background-color: #3a3a3a !important;
 }
 
-/* rep tutup */
+/* rep n */
+
+body.dark-mode .footer,
+body.dark-mode .content-footer,
+body.dark-mode footer {
+    background: #2a2a2a !important;
+    border-top: 1px solid #444 !important;
+    color: #e4e4e4 !important;
+}
+
+body.dark-mode .footer a,
+body.dark-mode footer a {
+    color: #cfcfcf !important;
+}
+
+body.dark-mode .footer a:hover,
+body.dark-mode footer a:hover {
+    color: #ffffff !important;
+}
+
 
 </style>
 
