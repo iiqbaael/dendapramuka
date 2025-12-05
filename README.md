@@ -139,7 +139,7 @@ http://localhost/dendapramuka
 pgsql
 Salin kode
 Username : iqbal
-Password : 123
+Password : 
 Role     : admin
 Disarankan mengganti password melalui database.
 
